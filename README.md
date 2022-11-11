@@ -35,7 +35,7 @@ Card Party allows you to create a card with a compliment or joke. Once you are f
 6. Run `npm run cypress` to start testing suite.
 
 ### Deploy Link
-[View the site here!](https://cardy-party.herokuapp.com/)
+[View the site here!](https://card-party-chi.vercel.app/)
 
 ### Features
 - User can select a compliment or joke for their card, and add a message
