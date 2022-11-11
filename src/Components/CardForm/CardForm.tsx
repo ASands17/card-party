@@ -20,7 +20,7 @@ const CardForm = ({ selectCard, choice }: Props) => {
     if (choice === "compliment") {
       URL = "https://complimentr.com/api";
     } else if (choice === "joke") {
-      URL = "https://asands17-jokes-api.herokuapp.com/joke";
+      URL = "https://joke-api-production.up.railway.app/joke";
     }
     try {
       const response = await fetch(URL);
